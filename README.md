@@ -24,7 +24,7 @@
 <br />
 
 - **📫 How to reach me:** 
-  - <a href="https://www.instagram.com/vinitpatil_8/">@thekaushikgoswami</a>
+  - <a href="https://www.instagram.com/vinitpatil_8/">@vinitpatil_8</a>
   - Discord Id : `°𝐗𝐑 🜲 Vinu#9999` 
 
 - 🔭 I’m currently working on **A Multi-Purpose Discord Bot named HEXAR**
@@ -52,9 +52,6 @@
     - Lurking Nature
   
   <br>
-  <img src= ./media//banner.png>
-
-<hr>
 <div align = "center">
   <center>
   Languages and Tools:  
