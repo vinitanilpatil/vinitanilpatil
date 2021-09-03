@@ -77,7 +77,7 @@
 
   ![TopLanguages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinitanilpatil&show_icons=true&theme=radical)
 
-  [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vinitanilpatil&theme=dark)](https://github.com/TheKaushikGoswami/TheKaushikGoswami)
+  [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vinitanilpatil&theme=dark)](https://github.com/vinitanilpatil/vinitanilpatil)
 
   <h2> Mujic iz Lob <3 
 
