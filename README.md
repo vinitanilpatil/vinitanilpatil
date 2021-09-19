@@ -6,6 +6,9 @@
 <a href="https://www.instagram.com/vinitpatil_8/">
   <img align="middle" width="40px" src="https://img.icons8.com/cotton/64/000000/instagram-new.png"/>
 </a>
+<a href="https://github.com/vinitanilpatil">
+  <img align="middle" width="40px" src="https://img.icons8.com/material-rounded/24/000000/github.png"/>
+</a>
 <a href="https://discordapp.com/users/755722164774109184">
   <img align="middle" width="40px"
   src="https://img.icons8.com/dusk/50/000000/discord-logo.png">
