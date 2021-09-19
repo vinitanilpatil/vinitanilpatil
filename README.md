@@ -26,6 +26,7 @@
 - **📫 How to reach me:** 
   - <a href="https://www.instagram.com/vinitpatil_8/">@vinitpatil_8</a>
   - Discord Id : `°𝐗𝐑 🜲 Vinu#9999` 
+  - <a href="https://www.sololearn.com/profile/18932734">Sololearn :- Vinit</a>
 
 - 🔭 I’m currently working on **A Multi-Purpose Discord Bot named HEXAR**
 - 🌱 I’m currently learning **HTML, CSS and PHP (Front-end Development)**
