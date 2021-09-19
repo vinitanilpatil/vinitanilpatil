@@ -77,8 +77,6 @@
 
   ![TopLanguages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinitanilpatil&show_icons=true&theme=radical)
 
-  [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vinitanilpatil&theme=dark)](https://github.com/vinitanilpatil/vinitanilpatil)
-
   <h2> Mujic iz Lob <3 
 
   [![Spotify](https://img.icons8.com/color/144/000000/spotify--v1.png)](https://open.spotify.com/user/iyisr8cowegwaadxe6rbkijxl)
